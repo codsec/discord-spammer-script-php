@@ -7,7 +7,7 @@ Discord API v6
 
 # my contact :
 
- discord : CodSec 4u♡#5420
+ discord : CodSec#5420
  
  UC Profile : codsec
 
