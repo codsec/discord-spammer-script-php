@@ -5,12 +5,6 @@ Language: PHP and JS.
 
 Discord API v6
 
-# my contact :
-
- discord : CodSec#5420
- 
- UC Profile : codsec
-
 ### Features
 - Spam messages with random content & length
 - Delay between sending
